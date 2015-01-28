@@ -4,7 +4,7 @@
 
 #Import your training data into Azure Machine Learning Studio
 
-When you develop a predictive analytics solution in Azure Machine Learning Studio, you train your model using data representative of your problem space.
+When you develop a predictive analytics solution in Machine Learning Studio, you train your model using data representative of your problem space.
 There are a number of sample datasets available in ML Studio that you can use for this purpose 
 (see [Use the sample datasets in Azure Machine Learning Studio](http://azure.microsoft.com/en-us/documentation/articles/machine-learning-use-sample-datasets/)). But you can also import your own data into ML Studio for use in your experiments.
 
